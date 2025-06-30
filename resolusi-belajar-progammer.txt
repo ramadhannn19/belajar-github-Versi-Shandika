@@ -7,4 +7,4 @@
 Prioritas  belajar 
 1 Prioritas Utama Flutter via Kursus HSI Sandbox
 2 Tetep Jalan latihan JS OOP 
-3 Git dan Github
+3 Git Hub sudah finish belajar
